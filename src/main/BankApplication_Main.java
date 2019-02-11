@@ -24,7 +24,7 @@ public class BankApplication_Main {
           else
               System.out.println("File type error!");
        }
-     
+
 
        for (Account acc :accounts){
 

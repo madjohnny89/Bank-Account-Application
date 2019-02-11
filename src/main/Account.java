@@ -55,7 +55,7 @@ public abstract class Account implements IBaseRate {
     }
     protected void showInfo(){
         System.out.println("Name: "+name+
-                        "\nmain.Account Number: "+accountNumber+
+                        "\nAccount Number: "+accountNumber+
                         "\nSSN: "+ssN+
                         "\nOriginal Balance: "+originalBalance+
                         "$\nRate: "+rate+"%"+
